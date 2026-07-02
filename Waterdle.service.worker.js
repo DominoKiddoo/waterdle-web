@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1782984506|549199127';
+const CACHE_VERSION = '1782985011|1054253806';
 /** @type {string} */
 const CACHE_PREFIX = 'Waterdle-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
